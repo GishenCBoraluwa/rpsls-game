@@ -1,0 +1,54 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+venv/
+env/
+.venv/
+.env/
+
+# macOS system files
+.DS_Store
+
+# VSCode settings
+.vscode/
+
+# PyCharm settings
+.idea/
+
+# Logs
+*.log
+
+# Python egg files
+*.egg
+*.egg-info/
+dist/
+build/
+
+# pip wheel files
+*.whl
+
+# Database files
+*.sqlite3
+
+# CV2 compiled files (if any are generated)
+*.so
+
+# Flask instance folder
+instance/
+
+# Static/media/temp uploads (if you have any)
+uploads/
+media/
+temp/
+
+# Environment variable definitions
+.env
+.env.*
+
+# Testing cache
+.pytest_cache/
+.coverage
+htmlcov/
